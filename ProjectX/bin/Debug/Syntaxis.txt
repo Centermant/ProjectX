@@ -1,0 +1,1 @@
+ilmerge ProjectX.exe EntityFramework.dll EntityFramework.SqlServer.dll System.Data.SQLite.dll System.Data.SQLite.EF6.dll System.Data.SQLite.Linq.dll /out:Imba.exe

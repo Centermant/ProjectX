@@ -34,8 +34,9 @@ namespace ProjectX
 
             InitializeComponents();
             _panelSwitcher = new PanelSwitcher(_mainPanel);
-            this.Text = "Report Generator";
-            this.Size = new Size(800, 600);
+            this.Text = "Табличный редактор";
+            this.MinimumSize = new Size(800, 600);
+            this.Size = new Size(1000, 800);
         }
 
         private void InitializeComponents()
