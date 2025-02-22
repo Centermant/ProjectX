@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\peper\\source\\repos\\ProjectX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|c:\\users\\peper\\source\\repos\\projectx\\projectx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|solutionrelative:projectx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectX\\Form1.cs",
+              "ToolTip": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\Form1.cs [Design]",
+              "RelativeToolTip": "ProjectX\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T08:47:59.989Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
