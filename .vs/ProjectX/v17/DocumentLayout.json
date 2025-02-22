@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\peper\\source\\repos\\ProjectX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|c:\\users\\peper\\source\\repos\\projectx\\projectx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|solutionrelative:projectx\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|c:\\users\\peper\\source\\repos\\projectx\\projectx\\tableselectionpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|solutionrelative:projectx\\tableselectionpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|C:\\Users\\peper\\source\\repos\\ProjectX\\projectx\\dataentrypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|solutionrelative:projectx\\dataentrypanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|C:\\Users\\peper\\source\\repos\\ProjectX\\projectx\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|solutionrelative:projectx\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|C:\\Users\\peper\\source\\repos\\ProjectX\\projectx\\visualsettingspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|solutionrelative:projectx\\visualsettingspanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|C:\\Users\\peper\\source\\repos\\ProjectX\\projectx\\visualsettingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|solutionrelative:projectx\\visualsettingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|C:\\Users\\peper\\source\\repos\\ProjectX\\projectx\\viewdatatablepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|solutionrelative:projectx\\viewdatatablepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|C:\\Users\\peper\\source\\repos\\ProjectX\\projectx\\createdatabasepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1ED4DAE-AC30-4614-BC66-C910AA41FC90}|ProjectX\\ProjectX.csproj|solutionrelative:projectx\\createdatabasepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 201,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +46,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\Form1.cs",
-              "RelativeDocumentMoniker": "ProjectX\\Form1.cs",
-              "ToolTip": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\Form1.cs [Design]",
-              "RelativeToolTip": "ProjectX\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "DataEntryPanel.cs",
+              "DocumentMoniker": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\DataEntryPanel.cs",
+              "RelativeDocumentMoniker": "ProjectX\\DataEntryPanel.cs",
+              "ToolTip": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\DataEntryPanel.cs",
+              "RelativeToolTip": "ProjectX\\DataEntryPanel.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T08:47:59.989Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-22T12:57:48.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisualSettingsPanel.cs",
+              "DocumentMoniker": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\VisualSettingsPanel.cs",
+              "RelativeDocumentMoniker": "ProjectX\\VisualSettingsPanel.cs",
+              "ToolTip": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\VisualSettingsPanel.cs",
+              "RelativeToolTip": "ProjectX\\VisualSettingsPanel.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswHwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:54:23.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VisualSettingsManager.cs",
+              "DocumentMoniker": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\VisualSettingsManager.cs",
+              "RelativeDocumentMoniker": "ProjectX\\VisualSettingsManager.cs",
+              "ToolTip": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\VisualSettingsManager.cs",
+              "RelativeToolTip": "ProjectX\\VisualSettingsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:53:50.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\MainForm.cs",
+              "RelativeDocumentMoniker": "ProjectX\\MainForm.cs",
+              "ToolTip": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\MainForm.cs",
+              "RelativeToolTip": "ProjectX\\MainForm.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAALAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:45:06.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewDataTablePanel.cs",
+              "DocumentMoniker": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\ViewDataTablePanel.cs",
+              "RelativeDocumentMoniker": "ProjectX\\ViewDataTablePanel.cs",
+              "ToolTip": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\ViewDataTablePanel.cs",
+              "RelativeToolTip": "ProjectX\\ViewDataTablePanel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T12:30:55.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TableSelectionPanel.cs",
+              "DocumentMoniker": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\TableSelectionPanel.cs",
+              "RelativeDocumentMoniker": "ProjectX\\TableSelectionPanel.cs",
+              "ToolTip": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\TableSelectionPanel.cs",
+              "RelativeToolTip": "ProjectX\\TableSelectionPanel.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:19:02.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateDatabasePanel.cs",
+              "DocumentMoniker": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\CreateDatabasePanel.cs",
+              "RelativeDocumentMoniker": "ProjectX\\CreateDatabasePanel.cs",
+              "ToolTip": "C:\\Users\\peper\\source\\repos\\ProjectX\\ProjectX\\CreateDatabasePanel.cs",
+              "RelativeToolTip": "ProjectX\\CreateDatabasePanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:52:04.278Z"
             }
           ]
         }
