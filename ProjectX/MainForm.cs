@@ -20,9 +20,9 @@ namespace ProjectX
         private ToolStripMenuItem _createDbMenuItem;
         private ToolStripMenuItem _addToTablesMenuItem;
         private ToolStripMenuItem _viewTablesMenuItem;
-
+        private ToolStripMenuItem _reportPrint;
         private ToolStripMenuItem _reportsMenuItem;
-
+        private ToolStripMenuItem _reportEditorMenuItem;
         public Panel _mainPanel;
         private PanelSwitcher _panelSwitcher;
         public ActionType _currentAction; // Make public
@@ -66,6 +66,10 @@ namespace ProjectX
 
             // Отчеты
             _reportsMenuItem = new ToolStripMenuItem("Отчеты");
+            _reportEditorMenuItem = new ToolStripMenuItem("Редактор отчетов"); //Add
+            _reportPrint = new ToolStripMenuItem("Печать отчетов");
+            _reportsMenuItem.DropDownItems.Add(_reportEditorMenuItem); //Add
+            _reportsMenuItem.DropDownItems.Add(_reportPrint);
 
             _menuStrip.Items.Add(_fileMenuItem);
             _menuStrip.Items.Add(_tablesMenuItem);
@@ -86,11 +90,22 @@ namespace ProjectX
             _visualSettingsMenuItem.Click += VisualSettingsMenuItem_Click;
             _closePanelMenuItem.Click += ClosePanelMenuItem_Click;
             _exitMenuItem.Click += ExitMenuItem_Click;
-
+            _reportEditorMenuItem.Click += ReportEditorMenuItem_Click;
+            _reportPrint.Click += ReportPrint_Click;
             this.MainMenuStrip = _menuStrip;
 
             this.Font = DefaultFont;
             this.BackColor = DefaultBackColor;
+        }
+        private void ReportPrint_Click(object sender, EventArgs e) // Add
+        {
+            ReportSelectionPanel reportSelectionPanel = new ReportSelectionPanel();
+            _panelSwitcher.ShowControl(reportSelectionPanel);
+        }
+        private void ReportEditorMenuItem_Click(object sender, EventArgs e) // Add
+        {
+            ReportEditorPanel reportEditorPanel = new ReportEditorPanel();
+            _panelSwitcher.ShowControl(reportEditorPanel);
         }
 
         private void DataEntryMenuItem_Click(object sender, EventArgs e)

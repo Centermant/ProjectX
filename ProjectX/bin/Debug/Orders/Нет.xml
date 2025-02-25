@@ -1,0 +1,12 @@
+<ReportTemplate>
+  <GridSettings Rows="10" Columns="10" />
+  <Cells>
+    <Cell Row="5" Column="0">Сотрудники.ФИО</Cell>
+    <Cell Row="5" Column="1">Сотрудники.Номер телефона</Cell>
+    <Cell Row="5" Column="2">Сотрудники.Дата приема</Cell>
+    <Cell Row="5" Column="3">Сотрудники.Уволен</Cell>
+  </Cells>
+  <Formula>
+  </Formula>
+  <TableName>Orders_List</TableName>
+</ReportTemplate>
